@@ -1,2 +1,3 @@
 # Summer-2021
-Organization and discussions
+
+Final report: https://github.com/UW-Upwelling-Project/Summer-2021/discussions/45
